@@ -61,18 +61,13 @@ Portafolio/
 
 ---
 
-## 🚀 Cómo verlo
+## 🚀 Ver el sitio
 
-No requiere instalación ni compilación. Tienes dos opciones:
+El portafolio está publicado en línea:
 
-1. **Abrir directamente** el archivo `index.html` con doble clic en tu navegador.
-2. **Servidor local** (recomendado para que se resuelvan bien las rutas de los recursos):
+🔗 **https://jess-rl.github.io/mi-portafolio/**
 
-```bash
-python3 -m http.server 8000
-```
-
-Luego abre `http://localhost:8000` en el navegador.
+No requiere instalación ni compilación: solo abre el enlace en tu navegador.
 
 ---
 
